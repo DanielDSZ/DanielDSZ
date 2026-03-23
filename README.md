@@ -1,6 +1,6 @@
 <h1 align="center">Daniel D'Souza</h1>
 
-<h3 align="center">Networking & Cybersecurity | CCNA in Progress</h3>
+<h3 align="center">Networking & Cybersecurity</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danieldsz/" target="_blank">
